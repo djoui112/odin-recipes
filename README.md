@@ -1,2 +1,5 @@
 # odin-recipes
-first oden project 
+
+first oden project
+oden recipies project
+i am as much of a noob in webdev as the next guy
